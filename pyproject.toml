@@ -1,0 +1,11 @@
+[project]
+name = "lang_graph_learning"
+version = "0.1.0"
+description = "Langhgraph series"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "langgraph>=1.0.7",
+    "notebook>=7.5.3",
+    "python-dotenv>=1.2.1",
+]
